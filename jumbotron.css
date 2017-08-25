@@ -3,6 +3,18 @@ body {
   padding-top: 2rem;
 }
 
+.white {
+color:#dedede;
+
+
+}
+
+
+.no-margin{margin:0;}
+
+.float-center {
+  text-align:center;
+}
 
 .jumbotron {
   position: relative;
@@ -15,6 +27,28 @@ body {
 }
 
 
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  color: #212121;
+
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #212121;
+
+
+}
+
+
+
+.gap-top-30{margin-top:30px;}
+.gap-top-60{margin-top:60px;}
+.gap-top-90{margin-top:90px;}
+.gap-top-120{margin-top:120px;}
+.gap-top-240{margin-top:240px;}
 
 
 
